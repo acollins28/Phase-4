@@ -26,7 +26,7 @@ Mean Absolute Percentage Error (MAPE) was used to determine how good models were
 
 Below is an example of a model that was used in the presentation.
 
-![https://github.com/acollins28/Phase-4/blob/main/Phase%204%20Presentation%20Materials/model%20with%20MAPE%20at%20bottom.png?raw=true](attachment:model%20with%20MAPE%20at%20bottom.png)
+!(https://github.com/acollins28/Phase-4/blob/main/Phase%204%20Presentation%20Materials/model%20with%20MAPE%20at%20bottom.png?raw=true)
 
 # Results
 
